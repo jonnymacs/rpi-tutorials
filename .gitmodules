@@ -10,3 +10,6 @@
 [submodule "rpi-web-kiosk"]
 	path = rpi-web-kiosk
 	url = https://github.com/jonnymacs/rpi-web-kiosk.git
+[submodule "rpi-auto-resize-root"]
+	path = rpi-auto-resize-root
+	url = https://github.com/jonnymacs/rpi-auto-resize-root
