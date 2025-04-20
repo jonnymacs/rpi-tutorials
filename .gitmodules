@@ -16,3 +16,6 @@
 [submodule "rpi-lamp-stack"]
 	path = rpi-lamp-stack
 	url = https://github.com/jonnymacs/rpi-lamp-stack
+[submodule "rpi-tradingstrategy-ai-part-2"]
+        path = rpi-tradingstrategy-ai-part-2
+        url = https://github.com/jonnymacs/rpi-tradingstrategy-ai-part-2
