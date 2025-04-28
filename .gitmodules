@@ -19,3 +19,9 @@
 [submodule "rpi-tradingstrategy-ai-part-2"]
         path = rpi-tradingstrategy-ai-part-2
         url = https://github.com/jonnymacs/rpi-tradingstrategy-ai-part-2
+[submodule "rpi-boiler-plate"]
+	path = rpi-boiler-plate
+	url = https://github.com/jonnymacs/rpi-boiler-plate.git
+[submodule "rpi-rails-mariadb-docker"]
+	path = rpi-rails-mariadb-docker
+	url = https://github.com/jonnymacs/rpi-rails-mariadb-docker
