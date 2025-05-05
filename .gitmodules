@@ -1,27 +1,36 @@
 [submodule "rpi-image-gen-example"]
 	path = rpi-image-gen-example
 	url = https://github.com/jonnymacs/rpi-image-gen-example.git
+	branch = main
 [submodule "rpi-ble-server"]
 	path = rpi-ble-server
 	url = https://github.com/jonnymacs/rpi-ble-server.git
+	branch = main
 [submodule "rpi-with-splash-screen"]
 	path = rpi-with-splash-screen
 	url = https://github.com/jonnymacs/rpi-with-splash-screen
+	branch = main
 [submodule "rpi-web-kiosk"]
 	path = rpi-web-kiosk
 	url = https://github.com/jonnymacs/rpi-web-kiosk.git
+	branch = main
 [submodule "rpi-auto-resize-root"]
 	path = rpi-auto-resize-root
 	url = https://github.com/jonnymacs/rpi-auto-resize-root
+	branch = main
 [submodule "rpi-lamp-stack"]
 	path = rpi-lamp-stack
 	url = https://github.com/jonnymacs/rpi-lamp-stack
+	branch = main
 [submodule "rpi-tradingstrategy-ai-part-2"]
-        path = rpi-tradingstrategy-ai-part-2
-        url = https://github.com/jonnymacs/rpi-tradingstrategy-ai-part-2
+	path = rpi-tradingstrategy-ai-part-2
+	url = https://github.com/jonnymacs/rpi-tradingstrategy-ai-part-2
+	branch = main
 [submodule "rpi-boiler-plate"]
 	path = rpi-boiler-plate
 	url = https://github.com/jonnymacs/rpi-boiler-plate.git
+	branch = main
 [submodule "rpi-rails-mariadb-docker"]
 	path = rpi-rails-mariadb-docker
 	url = https://github.com/jonnymacs/rpi-rails-mariadb-docker
+	branch = main
