@@ -1,7 +1,3 @@
-[submodule "rpi-with-splash-screen"]
-	path = rpi-with-splash-screen
-	url = https://github.com/jonnymacs/rpi-with-splash-screen
-	branch = main
 [submodule "rpi-web-kiosk"]
 	path = rpi-web-kiosk
 	url = https://github.com/jonnymacs/rpi-web-kiosk.git
