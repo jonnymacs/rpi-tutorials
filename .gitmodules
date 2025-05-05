@@ -1,4 +1,0 @@
-[submodule "rpi-web-kiosk"]
-	path = rpi-web-kiosk
-	url = https://github.com/jonnymacs/rpi-web-kiosk.git
-	branch = main
