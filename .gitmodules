@@ -1,7 +1,3 @@
-[submodule "rpi-image-gen-example"]
-	path = rpi-image-gen-example
-	url = https://github.com/jonnymacs/rpi-image-gen-example.git
-	branch = main
 [submodule "rpi-ble-server"]
 	path = rpi-ble-server
 	url = https://github.com/jonnymacs/rpi-ble-server.git
