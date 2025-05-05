@@ -1,7 +1,3 @@
-[submodule "rpi-ble-server"]
-	path = rpi-ble-server
-	url = https://github.com/jonnymacs/rpi-ble-server.git
-	branch = main
 [submodule "rpi-with-splash-screen"]
 	path = rpi-with-splash-screen
 	url = https://github.com/jonnymacs/rpi-with-splash-screen
