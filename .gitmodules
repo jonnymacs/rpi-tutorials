@@ -10,10 +10,6 @@
 	path = rpi-lamp-stack
 	url = https://github.com/jonnymacs/rpi-lamp-stack
 	branch = main
-[submodule "rpi-tradingstrategy-ai-part-2"]
-	path = rpi-tradingstrategy-ai-part-2
-	url = https://github.com/jonnymacs/rpi-tradingstrategy-ai-part-2
-	branch = main
 [submodule "rpi-boiler-plate"]
 	path = rpi-boiler-plate
 	url = https://github.com/jonnymacs/rpi-boiler-plate.git
