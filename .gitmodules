@@ -2,19 +2,3 @@
 	path = rpi-web-kiosk
 	url = https://github.com/jonnymacs/rpi-web-kiosk.git
 	branch = main
-[submodule "rpi-auto-resize-root"]
-	path = rpi-auto-resize-root
-	url = https://github.com/jonnymacs/rpi-auto-resize-root
-	branch = main
-[submodule "rpi-lamp-stack"]
-	path = rpi-lamp-stack
-	url = https://github.com/jonnymacs/rpi-lamp-stack
-	branch = main
-[submodule "rpi-boiler-plate"]
-	path = rpi-boiler-plate
-	url = https://github.com/jonnymacs/rpi-boiler-plate.git
-	branch = main
-[submodule "rpi-rails-mariadb-docker"]
-	path = rpi-rails-mariadb-docker
-	url = https://github.com/jonnymacs/rpi-rails-mariadb-docker
-	branch = main
